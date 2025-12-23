@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Adaptive Cruise Control Simulator",
+  "description": "A high-fidelity academic simulation of AI-based Adaptive Cruise Control with real-time road physics, dashboard diagnostics, live telemetry graphs, and weather integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
